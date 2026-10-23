@@ -1,0 +1,6 @@
+{
+  "name": "Hazon AI",
+  "description": "AI-powered mobile coding studio to imagine, plan, and build web and mobile applications with DeepSeek, GLM, and Qwen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
